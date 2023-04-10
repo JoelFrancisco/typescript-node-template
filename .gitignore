@@ -1,0 +1,11 @@
+dist/**/*
+node_modules
+package-lock.json
+
+.idea
+**/.vs
+**/.vscode/*
+!**/.vscode/tasks.json
+!**/.vscode/settings.template.json
+!**/.vscode/extensions.json
+!**/.vscode/launch.template.json
